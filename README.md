@@ -12,7 +12,7 @@ usage: docker-registry-list.py [-h] [-t TOKEN] [-i INDEX_URL] [-a AUTH_URL]
                                name
 
 positional arguments:
-  name                  Name of image to list versions of
+  name                  Name of image to list versions of, such as alpine or curlimages/curl
 
 optional arguments:
   -h, --help            show this help message and exit
